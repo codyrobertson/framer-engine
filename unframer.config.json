@@ -1,0 +1,7 @@
+{
+    "$schema": "https://unframer-schema.vercel.app/schema.json",
+    "outDir": "./framer-imported",
+    "components": {
+        "MyFramerComponent": "https://framer.com/m/MyComponent.js"
+    }
+}
